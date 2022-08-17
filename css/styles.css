@@ -1,0 +1,27 @@
+body {
+  color: #757575;
+  background-color: #fff;
+}
+/* цвет основного текста #757575 серый*/
+/* вторичный цвет текста #212121 черный */
+/* белый #FFFFFF */
+/* цвет акцента #2196F3 голубой */
+/* цвет почты и тел в футере  rgba(255, 255, 255, 0.6); */
+.logo {
+  color: #000000;
+}
+.web {
+  color: #2196f3;
+}
+ul {
+  list-style: none;
+}
+/* Site nav */
+.site-nav .link {
+  color: #000000;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
